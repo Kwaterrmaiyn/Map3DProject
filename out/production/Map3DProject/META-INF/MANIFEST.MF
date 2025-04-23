@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: joml-1.10.0.jar lwjgl-glfw.jar lwjgl-natives-windows.jar
+ lwjgl-opengl.jar lwjgl-stb.jar lwjgl.jar
