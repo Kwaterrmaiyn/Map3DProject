@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lwjgl_win/joml-1.10.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_win/lwjgl-glfw.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_win/lwjgl-opengl.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_win/lwjgl-natives-windows.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_win/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_win/lwjgl-stb.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/joml-1.10.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-assimp-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-assimp.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-glfw-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-glfw.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-nfd-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-nfd.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-openal-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-openal.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-opengl-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-opengl.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-stb-natives-linux.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-stb.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/joml-1.10.0-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-assimp-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-glfw-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-nfd-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-openal-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-opengl-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-stb-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/joml-1.10.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/joml-1.10.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-assimp-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-glfw-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-nfd-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-openal-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-opengl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lwjgl_linux/lwjgl-stb-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
